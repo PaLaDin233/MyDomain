@@ -16,7 +16,7 @@ public final class Config {
     public static final int TASK_CYCLE_TIME = 1000*60;//定时任务循环时间
 
 
-    public static final String privateKey = "8879576aa";//项目解密密钥
+    public static final String privateKey = "项目解密密钥,根据实际需要替换";//项目解密密钥
 
     public static final String getAccessKeyId(){
         try {
